@@ -551,6 +551,7 @@
 							:ARG0 (v / vozinha
 								:mod (e / estranha))))))
 		</amr>
+	</sntamr>
 	<sntamr>
 		<sentence id="44">Dizia: - Por favor... desenha-me um carneiro!</sentence>
 		<amr date="2017-03-05T22:46">
@@ -851,6 +852,7 @@
 			(j / jibóia
 				:mod (f / fechada))
 		</amr>
+	</sntamr>
 	<sntamr>
 		<sentence id="69">E fiquei estupefato de ouvir o garoto replicar: - Não! Não!</sentence>
 		<amr date="2017-04-29T16:50">
@@ -14072,7 +14074,7 @@
 					:ARG0 (c / cor
 						:mod (m / mel))
 					:ARG1 (e1 / eu)
-					:ARG2 (1 / feliz)))
+					:ARG2 (f1 / feliz)))
 		</amr>
 		
 	</sntamr>
