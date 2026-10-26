@@ -1,6 +1,6 @@
 # AMR-BR
 
-The repository contains The Little Prince book (in Brazilian Portuguese) annotated in Abstract Meaning Representation.
+The repository contains the book The Little Prince (in Brazilian Portuguese), annotated in Abstract Meaning Representation.
 
 # Annotation Process
 
@@ -19,8 +19,3 @@ For more details about the annotation process, please see [here](https://www.acl
     publisher = "European Language Resources Association (ELRA)",
     url = "https://www.aclweb.org/anthology/L18-1157",
 }
-```
-
-# License
-[![Licença: CC BY 4.0](https://creativecommons.org)](https://creativecommons.org)
-
