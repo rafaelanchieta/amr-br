@@ -22,4 +22,5 @@ For more details about the annotation process, please see [here](https://www.acl
 ```
 
 # License
-[![Licença: CC BY 4.0](https://shields.io)](https://creativecommons.org/licenses/by/4.0/deed.pt-br)
+[![Licença: CC BY 4.0](https://creativecommons.org)](https://creativecommons.org)
+
